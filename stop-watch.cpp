@@ -13,8 +13,8 @@
  */
 
 #include <iostream>
-#define conioOnLinux
-#include "conioLinux.h" //include this to run in Linux (gcc/g++ compiler)
+#define conioOnLinux    //define this so that conioLinux.h is used
+#include "conioLinux.h" //include this to run getch() in Linux (gcc/g++ compiler)
 using namespace std;
 
 time_t si;
