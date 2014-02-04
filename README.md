@@ -1,4 +1,5 @@
-stop_watch
+Stop watch
 ==========
 
-A simple stop watch using CPP
+A very simple stop watch using CPP.
+
